@@ -1,0 +1,101 @@
+city,state
+Udupi,Karnataka
+Hassan,Karnataka
+Tumakuru,Karnataka
+Chikkamagaluru,Karnataka
+Ballari,Karnataka
+Vijayapura,Karnataka
+Raichur,Karnataka
+Koppal,Karnataka
+Gadag,Karnataka
+Haveri,Karnataka
+Kolar,Karnataka
+Chikkaballapur,Karnataka
+Bidar,Karnataka
+Yadgir,Karnataka
+Surat,Gujarat
+Vadodara,Gujarat
+Rajkot,Gujarat
+Gandhinagar,Gujarat
+Bhavnagar,Gujarat
+Jamnagar,Gujarat
+Nagpur,Maharashtra
+Nashik,Maharashtra
+Thane,Maharashtra
+Kolhapur,Maharashtra
+Solapur,Maharashtra
+Amravati,Maharashtra
+Nanded,Maharashtra
+Jalgaon,Maharashtra
+Latur,Maharashtra
+Sangli,Maharashtra
+Bhopal,Madhya Pradesh
+Indore,Madhya Pradesh
+Jabalpur,Madhya Pradesh
+Gwalior,Madhya Pradesh
+Ujjain,Madhya Pradesh
+Jodhpur,Rajasthan
+Udaipur,Rajasthan
+Kota,Rajasthan
+Ajmer,Rajasthan
+Bikaner,Rajasthan
+Agra,Uttar Pradesh
+Kanpur,Uttar Pradesh
+Varanasi,Uttar Pradesh
+Prayagraj,Uttar Pradesh
+Meerut,Uttar Pradesh
+Gorakhpur,Uttar Pradesh
+Bareilly,Uttar Pradesh
+Moradabad,Uttar Pradesh
+Noida,Uttar Pradesh
+Gurugram,Haryana
+Faridabad,Haryana
+Ludhiana,Punjab
+Amritsar,Punjab
+Jalandhar,Punjab
+Dehradun,Uttarakhand
+Haridwar,Uttarakhand
+Raipur,Chhattisgarh
+Bilaspur,Chhattisgarh
+Ranchi,Jharkhand
+Jamshedpur,Jharkhand
+Patna,Bihar
+Gaya,Bihar
+Guwahati,Assam
+Dibrugarh,Assam
+Cuttack,Odisha
+Rourkela,Odisha
+Sambalpur,Odisha
+Kozhikode,Kerala
+Thrissur,Kerala
+Kollam,Kerala
+Alappuzha,Kerala
+Palakkad,Kerala
+Kannur,Kerala
+Kottayam,Kerala
+Malappuram,Kerala
+Hosur,Tamil Nadu
+Tiruppur,Tamil Nadu
+Dindigul,Tamil Nadu
+Cuddalore,Tamil Nadu
+Kanchipuram,Tamil Nadu
+Thoothukudi,Tamil Nadu
+Nagercoil,Tamil Nadu
+Tenali,Andhra Pradesh
+Madanapalle,Andhra Pradesh
+Hindupur,Andhra Pradesh
+Proddatur,Andhra Pradesh
+Puducherry,Puducherry
+Chandigarh,Chandigarh
+Srinagar,Jammu and Kashmir
+Jammu,Jammu and Kashmir
+Shimla,Himachal Pradesh
+Imphal,Manipur
+Shillong,Meghalaya
+Agartala,Tripura
+Aizawl,Mizoram
+Kohima,Nagaland
+Itanagar,Arunachal Pradesh
+Gangtok,Sikkim
+Leh,Ladakh
+Port Blair,Andaman and Nicobar Islands

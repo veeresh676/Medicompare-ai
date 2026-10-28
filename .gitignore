@@ -1,0 +1,37 @@
+.env
+*.env
+target/
+node_modules/
+dist/
+.idea/
+*.iml
+# Environment variables and secrets
+.env*
+!.env.example
+*.pem
+*.key
+
+# Database backups and dumps
+*.dump
+*.sql
+*.bak
+*.backup
+
+# Local audit reports and exported data
+hospitals-audit.json
+hospitals_backup_before_cleanup.csv
+hospitals_export.csv
+hospitals_unique_audit.csv
+hospitals-missing-phones.csv
+telangana-missing-phones.csv
+verified-hospital-phones.csv
+
+# Python and Java build artifacts
+__pycache__/
+*.pyc
+server/target/
+
+
+# Runtime uploads
+server/uploads/
+

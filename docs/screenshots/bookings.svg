@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" role="img" aria-label="Bookings preview placeholder">
+  <rect width="1200" height="675" rx="24" fill="#faf9f7"/>
+  <rect x="40" y="40" width="1120" height="80" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+  <text x="70" y="90" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#1c1917">My Bookings — status tracking</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="160" width="1060" height="130" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="90" y="205" font-size="20" font-weight="bold" fill="#1c1917">Booking #1042 · Apollo Hospitals, Hyderabad</text>
+    <rect x="90" y="222" width="110" height="32" rx="16" fill="#fef3c7"/>
+    <text x="145" y="244" font-size="14" font-weight="bold" fill="#92400e" text-anchor="middle">PENDING</text>
+    <text x="90" y="272" font-size="15" fill="#78716c">Cardiology Consultation · 12 Oct 2026, 10:30 AM · Rs. 900</text>
+    <rect x="60" y="310" width="1060" height="130" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="90" y="355" font-size="20" font-weight="bold" fill="#1c1917">Booking #1038 · MIOT International, Chennai</text>
+    <rect x="90" y="372" width="110" height="32" rx="16" fill="#dcfce7"/>
+    <text x="145" y="394" font-size="14" font-weight="bold" fill="#166534" text-anchor="middle">APPROVED</text>
+    <text x="90" y="422" font-size="15" fill="#78716c">Orthopedic Consultation · 08 Oct 2026, 11:00 AM · Rs. 750</text>
+    <rect x="60" y="460" width="1060" height="130" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="90" y="505" font-size="20" font-weight="bold" fill="#1c1917">Admin workflow: approve / reject / complete</text>
+    <text x="90" y="535" font-size="15" fill="#78716c">Real-time slot validation · PENDING, APPROVED, REJECTED, CANCELLED, COMPLETED</text>
+    <text x="90" y="565" font-size="15" fill="#78716c">Notifications on approval and rejection</text>
+  </g>
+  <text x="60" y="630" font-family="Arial, sans-serif" font-size="16" fill="#78716c">Replace with real screenshot: docs/screenshots/bookings.png · Routes: /bookings · /admin/bookings</text>
+</svg>

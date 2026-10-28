@@ -1,0 +1,61 @@
+ id  |                        name                        |     city      | phone_number |   contact_type    
+-----+----------------------------------------------------+---------------+--------------+-------------------
+  40 | CMC Vellore Chittoor Campus                        | Chittoor      | 0416-2282000 | hospital_direct
+  48 | Christian Medical College (CMC), Vellore           | Vellore       | 0416-2282000 | hospital_direct
+ 101 | Government District Hospital, Kamareddy            | Kamareddy     | 08468240502  | hospital_direct
+ 102 | Government Area Hospital, Kamareddy                | Kamareddy     | 08468240502  | hospital_contact
+ 115 | Government District Hospital, Gadwal               | Gadwal        | 08546295052  | district_fallback
+ 116 | Government Area Hospital, Gadwal                   | Gadwal        | 08546295052  | district_fallback
+ 165 | Government District Hospital, Narasaraopet         | Narasaraopet  | 08647-223131 | hospital_contact
+ 166 | Government Area Hospital, Narasaraopet             | Narasaraopet  | 08647-223131 | hospital_direct
+ 124 | Government District Hospital, Bhupalpally          | Bhupalpally   | 08713221300  | hospital_contact
+ 125 | Government Area Hospital, Bhupalpally              | Bhupalpally   | 08713221300  | district_fallback
+ 104 | Government District Hospital, Medchal              | Medchal       | 7013377897   | district_fallback
+ 105 | Government Area Hospital, Medchal                  | Medchal       | 7013377897   | district_fallback
+  86 | Government District Hospital, Sangareddy           | Sangareddy    | 7331186790   | district_fallback
+  87 | Government Area Hospital, Sangareddy               | Sangareddy    | 7331186790   | district_fallback
+ 142 | Government District Hospital, Bhuvanagiri          | Bhuvanagiri   | 7702131479   | hospital_direct
+ 143 | Government Area Hospital, Bhuvanagiri              | Bhuvanagiri   | 7702131479   | district_fallback
+ 119 | Government District Hospital, Mahabubabad          | Mahabubabad   | 8008553170   | hospital_contact
+ 120 | Government Area Hospital, Mahabubabad              | Mahabubabad   | 8008553170   | hospital_direct
+ 167 | Government District Hospital, Parvathipuram        | Parvathipuram | 8008553400   | hospital_direct
+ 168 | Government Area Hospital, Parvathipuram            | Parvathipuram | 8008553400   | hospital_direct
+ 158 | Government District Hospital, Machilipatnam        | Machilipatnam | 8143866499   | district_fallback
+ 159 | Government Area Hospital, Machilipatnam            | Machilipatnam | 8143866499   | district_fallback
+ 160 | Government Medical College Hospital, Machilipatnam | Machilipatnam | 8143866499   | district_fallback
+ 128 | Government District Hospital, Jangaon              | Jangaon       | 8179299288   | hospital_direct
+ 129 | Government Area Hospital, Jangaon                  | Jangaon       | 8179299288   | hospital_direct
+ 108 | Government District Hospital, Vikarabad            | Vikarabad     | 8374068705   | district_fallback
+ 109 | Government Area Hospital, Vikarabad                | Vikarabad     | 8374068705   | district_fallback
+ 110 | Government Medical College Hospital, Vikarabad     | Vikarabad     | 8374068705   | district_fallback
+ 137 | Government District Hospital, Asifabad             | Asifabad      | 8374217217   | hospital_contact
+ 138 | Government Area Hospital, Asifabad                 | Asifabad      | 8374217217   | hospital_direct
+ 140 | Government District Hospital, Hanamkonda           | Hanamkonda    | 9059194146   | district_fallback
+ 141 | Government Area Hospital, Hanamkonda               | Hanamkonda    | 9059194146   | district_fallback
+ 126 | Government District Hospital, Mulugu               | Mulugu        | 9346950050   | district_fallback
+ 127 | Government Area Hospital, Mulugu                   | Mulugu        | 9346950050   | district_fallback
+ 131 | Government District Hospital, Sircilla             | Sircilla      | 9440117862   | hospital_direct
+ 132 | Government Area Hospital, Sircilla                 | Sircilla      | 9440117862   | hospital_contact
+ 177 | Government District Hospital, Bhimavaram           | Bhimavaram    | 9493203337   | district_fallback
+ 178 | Government Area Hospital, Bhimavaram               | Bhimavaram    | 9493203337   | district_fallback
+ 169 | Government District Hospital, Puttaparthi          | Puttaparthi   | 9848150148   | district_fallback
+ 170 | Government Area Hospital, Puttaparthi              | Puttaparthi   | 9848150148   | district_fallback
+ 113 | Government District Hospital, Nagarkurnool         | Nagarkurnool  | 9848484913   | hospital_direct
+ 114 | Government Area Hospital, Nagarkurnool             | Nagarkurnool  | 9848484913   | hospital_contact
+  98 | Government District Hospital, Nirmal               | Nirmal        | 9848976799   | hospital_direct
+  99 | Government Area Hospital, Nirmal                   | Nirmal        | 9848976799   | hospital_contact
+  96 | Government District Hospital, Mancherial           | Mancherial    | 9849350819   | district_fallback
+  97 | Government Area Hospital, Mancherial               | Mancherial    | 9849350819   | district_fallback
+ 179 | Government District Hospital, Kadapa               | Kadapa        | 9849902385   | district_fallback
+ 180 | Government Area Hospital, Kadapa                   | Kadapa        | 9849902385   | district_fallback
+ 146 | Government District Hospital, Anakapalli           | Anakapalli    | 9849902397   | district_fallback
+ 147 | Government Area Hospital, Anakapalli               | Anakapalli    | 9849902397   | district_fallback
+ 106 | Government District Hospital, Shamshabad           | Shamshabad    | 9849902433   | district_fallback
+ 107 | Government Area Hospital, Shamshabad               | Shamshabad    | 9849902433   | district_fallback
+ 153 | Government Area Hospital, Eluru                    | Eluru         | 9949623985   | district_fallback
+ 155 | Government Medical College Hospital, Eluru         | Eluru         | 9949623985   | district_fallback
+ 121 | Government District Hospital, Kothagudem           | Kothagudem    | 9949882286   | district_fallback
+ 122 | Government Area Hospital, Kothagudem               | Kothagudem    | 9949882286   | district_fallback
+(56 rows)
+
+medicompare=# 

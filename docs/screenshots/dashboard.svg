@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" role="img" aria-label="Admin Dashboard preview placeholder">
+  <rect width="1200" height="675" rx="24" fill="#faf9f7"/>
+  <rect x="40" y="40" width="1120" height="80" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+  <circle cx="90" cy="80" r="22" fill="#df7855"/>
+  <text x="122" y="76" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#1c1917">MediCompare</text>
+  <text x="122" y="100" font-family="Arial, sans-serif" font-size="15" fill="#78716c">Administration</text>
+  <rect x="880" y="58" width="130" height="44" rx="12" fill="#1c1917"/>
+  <text x="945" y="86" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Dashboard</text>
+  <text x="60" y="190" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#1c1917">Welcome back, Admin.</text>
+  <text x="60" y="222" font-family="Arial, sans-serif" font-size="18" fill="#78716c">Hospitals, services, pricing, images and bookings — one place.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="260" width="250" height="140" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="84" y="296" font-size="16" fill="#78716c">Hospitals</text>
+    <text x="84" y="340" font-size="44" font-weight="bold" fill="#1c1917">200+</text>
+    <text x="84" y="368" font-size="14" fill="#a8a29e">Registered hospitals</text>
+    <rect x="330" y="260" width="250" height="140" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="354" y="296" font-size="16" fill="#78716c">Services</text>
+    <text x="354" y="340" font-size="44" font-weight="bold" fill="#1c1917">1000+</text>
+    <text x="354" y="368" font-size="14" fill="#a8a29e">Available services</text>
+    <rect x="600" y="260" width="250" height="140" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="624" y="296" font-size="16" fill="#78716c">Prices</text>
+    <text x="624" y="340" font-size="44" font-weight="bold" fill="#1c1917">Live</text>
+    <text x="624" y="368" font-size="14" fill="#a8a29e">Service pricing</text>
+    <rect x="870" y="260" width="250" height="140" rx="16" fill="#ffffff" stroke="#e7e0d8"/>
+    <text x="894" y="296" font-size="16" fill="#78716c">Bookings</text>
+    <text x="894" y="340" font-size="44" font-weight="bold" fill="#1c1917">24/7</text>
+    <text x="894" y="368" font-size="14" fill="#a8a29e">Approval workflow</text>
+  </g>
+  <rect x="60" y="440" width="1060" height="150" rx="16" fill="#fff1eb" stroke="#f5c9b3"/>
+  <text x="90" y="486" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#9a3412">Management — Hospitals · Services · Prices · Bookings</text>
+  <text x="90" y="518" font-family="Arial, sans-serif" font-size="16" fill="#78716c">Replace this placeholder with your real screenshot: docs/screenshots/dashboard.png</text>
+  <text x="90" y="550" font-family="Arial, sans-serif" font-size="16" fill="#78716c">App route: /admin</text>
+</svg>
